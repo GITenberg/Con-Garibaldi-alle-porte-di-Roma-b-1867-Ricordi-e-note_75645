@@ -1,0 +1,52 @@
+_repo: Con-Garibaldi-alle-porte-di-Roma-b-1867-Ricordi-e-note_75645
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barrili, Anton Giulio
+    alias: Barrili, Antonio Giulio
+    birthdate: 1836
+    deathdate: 1908
+    gutenberg_agent_id: '4056'
+    url: http://www.gutenberg.org/2009/agents/4056
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Antonio_Giulio_Barrili
+    - https://it.wikipedia.org/wiki/Anton_Giulio_Barrili
+description: 'Reading ease score: 42.3 (College-level). Difficult to read.'
+gutenberg_bookshelf: 'Browsing: History - European'
+gutenberg_issued: '2025-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75645'
+language: it
+pgterms:marc904: http://www.braidense.it/dire/congaribaldi/pages/000_09.html
+pgterms:marc905: 20250314130134barrili
+pgterms:marc906: '1895'
+pgterms:marc907: IT
+production_note: Barbara Magni (This file was produced from images generously made
+  available by Biblioteca Nazionale Braidense - Milano)
+publication_note: '  $aMilano :$bTreves, $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Garibaldi, Giuseppe, 1807-1882'
+- !lcc 'DG'
+- GITenberg
+summary: '"Con Garibaldi alle porte di Roma: (1867) Ricordi e note" by Anton Giulio
+  Barrili is a historical account written in the late 19th century. The work reflects
+  on the events surrounding the campaign to liberate Rome during the 1867 Garibaldi
+  expedition, capturing the spirit and sentiments of those involved in this pivotal
+  chapter of Italian unification. The narrative primarily involves the perspective
+  of the unnamed protagonist and his companions as they navigate the challenges of
+  their mission.  The opening portion of the book introduces the author’s reminiscence
+  of the desperate and yet ardent yearning to support Garibaldi''s efforts to liberate
+  Rome from papal control. The narrator recounts the difficulty of leaving Genova
+  amidst the scrutiny of authorities, outlining the concerns over government restrictions
+  and the urgency felt by those wanting to join the struggle. As he prepares to embark
+  on his journey, he reflects on his comrades and their bravery while vividly illustrating
+  the landscapes, political tensions, and personal reflections that accompany their
+  endeavor. The mix of adventure, personal struggle, and camaraderie sets the tone
+  for a poignant exploration of historical heroism against the backdrop of a crucial
+  moment in Italy''s path to unification. (This is an automatically generated summary.)'
+title: 'Con Garibaldi alle porte di Roma : $b (1867) Ricordi e note'
+url: http://www.gutenberg.org/ebooks/75645
