@@ -1,5 +1,8 @@
 _repo: Con-Garibaldi-alle-porte-di-Roma-b-1867-Ricordi-e-note_75645
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75645-h/images/cover.jpg
 creator:
   author:
     agent_name: Barrili, Anton Giulio
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Antonio_Giulio_Barrili
     - https://it.wikipedia.org/wiki/Anton_Giulio_Barrili
 description: 'Reading ease score: 42.3 (College-level). Difficult to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75645#Con-Garibaldi-alle-porte-di-Roma-b-1867-Ricordi-e-note
 gutenberg_bookshelf: 'Browsing: History - European'
 gutenberg_issued: '2025-03-17'
 gutenberg_type: Text
